@@ -1,4 +1,12 @@
 ## Password Checker
+
+   ██████╗ ██╗   ██╗██████╗ ███████╗██████╗  █████╗ ██╗     ███████╗██████╗ 
+  ██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝██╔══██╗
+  ██║   ██║██║   ██║██║  ██║█████╗  ██████╔╝███████║██║     █████╗  ██████╔╝
+  ██║▄▄ ██║██║   ██║██║  ██║██╔══╝  ██╔══██╗██╔══██║██║     ██╔══╝  ██╔══██╗
+  ╚██████╔╝╚██████╔╝██████╔╝███████╗██║  ██║██║  ██║███████╗███████╗██║  ██║
+   ╚══▀▀═╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+
 Overview:
 
 This project provides a simple yet powerful solution to address the critical cybersecurity concern of password security. By leveraging modern web technologies and integrating with the Have I Been Pwned API, users can quickly check if their passwords have been compromised in data breaches, empowering them to make informed decisions about their online security.
