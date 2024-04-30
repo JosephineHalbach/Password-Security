@@ -18,11 +18,38 @@ main {
     border: 1px solid #ccc;
 }
 
-label {
-    font-weight: bold;
+.password-input {
+    margin-bottom: 20px;
+}
+
+.password-input label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.password-input input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.password-input button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.password-input button:hover {
+    background-color: #45a049;
 }
 
 #result {
-    margin-top: 20px;
+    font-size: 16px;
     font-weight: bold;
 }
