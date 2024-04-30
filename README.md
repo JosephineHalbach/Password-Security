@@ -1,5 +1,7 @@
 ## Password Checker
 
+![image](https://github.com/JosephineHalbach/Password-Security/assets/168281515/2c2c92a7-55c6-4b36-8210-a357c88422f3)
+
 
 Overview:
 
